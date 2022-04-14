@@ -1,7 +1,7 @@
 
 function initMap() {
   const cantho = { lat: 10.0452, lng: 105.7469 };
-  const danang = { lat: 16.0545, lng: 108.2717 };
+  const danang = { lat: 16.0545, lng: 108.1717 };
   const map = new google.maps.Map(document.getElementById("map"), {
     zoom: 6,
     center: cantho,

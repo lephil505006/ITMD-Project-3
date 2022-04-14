@@ -250,3 +250,13 @@ button.btn:hover{
 #forward ul{
   list-style-type: none;
 }
+
+/*Map code*/
+
+#map {
+  height: 600px;
+  width: 90%;
+ display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
