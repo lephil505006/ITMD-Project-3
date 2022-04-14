@@ -7,9 +7,26 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap" rel="stylesheet">
   <meta charset="UTF-8">
+  <script src="js/script.js"></script>
   <title>Project 3: Map</title>
+  <script async
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+</script>
 </head>
 <body>
+  <header>
+    <nav id="main-navbar">
+      <div id="navbar-container">
+        <ul>
+          <li><a href="index.html">Home: Resume</a></li>
+          <li><a href="vietnam.html">Facts and Cool Things About Vietnam</a></li>
+          <li><a href="tetris.html">Evolution of Tetris</a></li>
+        </ul>	   
+      </div>   
+    </nav>
+  </header>
+  <h3>My Google Maps Demo</h3>
+  <div id="map"></div>
   <footer>
   <p>Created By Philip Le</p>
     <address>
