@@ -10,17 +10,6 @@
   <title>Project 3: Map</title>
 </head>
 <body>
-  <header>
-    <nav id="main-navbar">
-      <div id="navbar-container">
-        <ul>
-          <li><a href="index.html">Home: Resume</a></li>
-          <li><a href="vietnam.html">Facts and Cool Things About Vietnam</a></li>
-          <li><a href="tetris.html">Evolution of Tetris</a></li>
-        </ul>	   
-      </div>   
-    </nav>
-  </header>
   <footer>
   <p>Created By Philip Le</p>
     <address>
