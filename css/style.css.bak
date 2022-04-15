@@ -27,7 +27,7 @@ body{
 
 #navbar-container li{
   float: left;
-  width: 25%;
+  width: 24%;
   text-align: center;
 }
 
@@ -219,7 +219,7 @@ button.btn:hover{
   display: block; 
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 450px;
   border: 10px solid #669DB3FF;
 }
 
@@ -235,7 +235,7 @@ button.btn:hover{
   display: block; 
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 450px;
   border: 10px solid #669DB3FF;
 }
 
