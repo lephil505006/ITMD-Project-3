@@ -27,7 +27,7 @@ body{
 
 #navbar-container li{
   float: left;
-  width: 33%;
+  width: 25%;
   text-align: center;
 }
 
@@ -122,7 +122,6 @@ button#email{
   border: 1px solid #FF4F58FF;
   background-color: #F0F6F7FF !important;
   position: relative;
-  left: 300%;
   float: left;
   transition: .4s ease-in;
   width: 150%;
@@ -256,7 +255,7 @@ button.btn:hover{
 #map {
   height: 600px;
   width: 90%;
- display: block; 
+  display: block; 
   margin-left: auto;
   margin-right: auto;
 }
