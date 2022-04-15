@@ -122,6 +122,7 @@ button#email{
   border: 1px solid #FF4F58FF;
   background-color: #F0F6F7FF !important;
   position: relative;
+  left: 300%;
   float: left;
   transition: .4s ease-in;
   width: 150%;
