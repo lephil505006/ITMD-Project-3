@@ -27,18 +27,18 @@ function initMap() {
   
   const canthoString =
     '<h1>Can Tho</h1>' +
-    'As shown from the other page,' +
-    'This is Can Tho which is known as the "river market"' +
-    'and is where my mother is from';
+    'As shown from the other page, ' +
+    'This is Can Tho which is known as the "river market" ' +
+    'and is where my mother is from ';
   const danangString =
     '<h1>Da Nang</h1>' +
     'This is Da Nang which is more farm based compared to other cities ' +
-    'It is very rural and also extremely hot reach up 100 degrees F' +
-    'and is where my father is from';
+    'It is very rural and also extremely hot reach up 100 degrees F ' +
+    'and is where my father is from ';
   const hanoiString =
     '<h1>Hanoi</h1>' +
     'This is the capital of Vietnam ' +
-    'There is a lot of culture here coming from places like China and France';
+    'There is a lot of culture here coming from places like China and France ';
   const infoCan = new google.maps.InfoWindow({
     content: canthoString,
     });
