@@ -273,3 +273,63 @@ button.btn:hover{
 }
 
 }
+
+@media screen and (max-width: 767px) {
+
+#main-navbar{
+  background-color: #FF4F58FF;
+  overflow:hidden;
+  border-radius: 25px;
+  padding: 5 px;
+  width: 100%;
+}
+
+#navbar-container{
+  float:left;
+  width: 100%;
+  position: relative;
+}
+
+#navbar-container ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#navbar-container li{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+#navbar-container ul li{
+  float: left;
+  position: relative;
+  right: 55%;
+  display: block;
+}
+
+#navbar-container ul li a{
+  border-style: solid;
+  border-color: #669DB3FF;
+  background-color: #F0F6F7FF;
+  border-radius: 25px;
+  display: block;
+  padding: 20px 50px;
+  text-decoration: none;
+  color: #ED6B5B;
+  font-size: 100%;
+  margin-left: 100px;
+  font-family: 'Georgia', serif;
+}
+
+#navbar-container ul li a:hover{
+  box-shadow: 10px 10px 0px #669DB3FF;
+  top: -5px;
+  left: -5px;
+}
+
+}
